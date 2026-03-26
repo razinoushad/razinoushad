@@ -3,7 +3,7 @@
 I am a public health professional with an interest in:
 - 📊 Public health data science
 - 🕵 Epidemiology
-- 🦠 Infectious disease modelling
+
 
 Currently, I am learning and applying the R programming language to explore and analyze public health data.
 
